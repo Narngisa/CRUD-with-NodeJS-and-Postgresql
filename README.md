@@ -1,6 +1,6 @@
 # CRUD with NodeJS and Postgresql
 
-This project use `nodeJS and postgresql` create crud to connecting database.
+This project use `nodeJS and postgresql` created crud to connecting database.
 
 > [!IMPORTANT]
 > **Download:** *[Postgreql](https://www.postgresql.org/download/)* <br />
