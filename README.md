@@ -2,14 +2,14 @@
 
 This project use `nodeJS and postgresql` create crud to connecting database.
 
-- **Warning!!**
+> [!IMPORTANT]
+> **Download:** *[Postgreql](https://www.postgresql.org/download/)* <br />
+> **Download:** *[NodeJS](https://nodejs.org/en/download/)*
 
-This Project hasn't how to use `Postgresql`. Please learning on `documents or youtube`.
+> [!WARNING]
+> This Project hasn't how to use `Postgresql`. Please learning on `documents or youtube`.
 
 - **How to install ??**
-
-**Download:** *[Postgreql](https://www.postgresql.org/download/)* <br />
-**Download:** *[NodeJS](https://nodejs.org/en/download/)*
 ```
 npm i
 npm install express nodemon pg cors body-parser dotenv
