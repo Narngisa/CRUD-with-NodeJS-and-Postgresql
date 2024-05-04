@@ -4,12 +4,6 @@ require('dotenv').config()
 
 // npm install express nodemon cors body-parser
 
-//                file package.json
-// "scripts": {
-//     "test": "echo \"Error: no test specified\" && exit 1",
-//     "dev": "nodemon index.js"
-// },
-
 const bodyParser = require("body-parser");
 const express = require('express');
 const cors = require('cors')
