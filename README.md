@@ -26,7 +26,7 @@ npm install express nodemon pg cors body-parser dotenv
 
 - **Config env.Local**
 ```
-PORT=8080
+PORT={your PORT}
 USER=postgres
 HOST=localhost
 DATABASE=postgres-db
