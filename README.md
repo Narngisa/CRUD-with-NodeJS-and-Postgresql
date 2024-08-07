@@ -1,4 +1,4 @@
-# CRUD with NodeJS and Postgresql
+# CRUD API Postgresql
 
 This project use `nodeJS and postgresql` created crud to connecting database.
 
